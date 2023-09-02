@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
 st.title("""
-Explore different Classifier on different Datasets
+Explore Different Datasets with Different Classifier
 """)
 
 # A side_bar in which we select the required Dataset
