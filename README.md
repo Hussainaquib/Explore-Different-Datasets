@@ -53,7 +53,7 @@ To run tests, run the following command on cmd
 
 link for demo
 
-https://explore-different-datasets-idhsldddrz3s4ltji7jqoz.streamlit.app/
+https://explore-different-datasets-gv5g2rf7zpmhqplqnsdeaz.streamlit.app/
 # Lessons Learned
 
 ## What did you learn while building this project?
